@@ -1,0 +1,76 @@
+body {
+	 background: #ffffff;
+	}
+
+h2 {
+    text-align: center;
+    font-weight: lighter;
+    font-size: 50px;
+    font-family: 'helvetica'; 	
+    margin-bottom: 20px;
+}
+
+.storybutton{
+	font-weight: bold;
+	font-family: 'helvetica';
+	font-size: 50px;
+}
+
+.photo{
+	padding-top: 10px;
+	padding-bottom: 2px;
+	margin: 0 auto;
+	width: 400px;
+}
+
+.cutline{
+	font-size: 12px;
+	padding-bottom: 10px;
+}
+
+.youtube{
+	padding: 10px 0px 10px 0px;
+}
+
+.header {
+	height: 75px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'helvetica'; 
+}
+
+.grid {
+	padding-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	display: grid;
+	padding: 3px;
+	width: 1000px;
+	height: 500px;
+}
+
+
+.button{
+	opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   font-weight: bold;
+   font-size: 25px;
+}
+
+.button:hover {
+	opacity: 0.5;
+}
+
+p{
+	text-indent: 20px;
+	font-family: 'times new roman';
+	margin: 0px 350px 0px 350px;
+}
+
+br {
+  margin:2.5em 0;
+  line-height: 2em;
+}
